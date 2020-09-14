@@ -5,7 +5,7 @@
 
 为了更好地讲清楚每个知识模块，我们也参考了很多网上的优质博文，力求不漏掉每一个知识点，所有参考博文都将声明转载来源，如有侵权，请联系我。
 
-点击关注[微信公众号](#微信公众号)及时获取笔主最新更新文章，并可免费领取Java工程师必备学习资源，以及我原创的电子书《菜鸟程序员成长之路：从技术小白到阿里巴巴Java工程师》
+点击关注[微信公众号](#微信公众号)及时获取笔主最新更新文章，并可免费领取Java工程师必备学习资源
 
 <p align="center">
 <a href="https://github.com/h2pl/Java-Tutorial" target="_blank">
@@ -81,9 +81,8 @@
 * [JavaIO流](docs/java/basic/16、JavaIO流.md)
 * [多线程](docs/java/basic/17、多线程.md)
 * [深入理解内部类](docs/java/basic/18、深入理解内部类.md)
-* [javac和javap](docs/java/basic/19、Java集合框架梳理.md)
-* [Java8新特性终极指南](docs/java/basic/20、javac和javap.md)
-* [Java类和包](docs/java/basic/21、Java8新特性终极指南.md)
+* [javac和javap](docs/java/basic/20、javac和javap.md)
+* [Java8新特性终极指南](docs/java/basic/21、Java8新特性终极指南.md)
 * [序列化和反序列化](docs/java/basic/22、序列化和反序列化.md)
 * [继承、封装、多态的实现原理](docs/java/basic/23、继承、封装、多态的实现原理.md)
 
@@ -113,7 +112,7 @@
 * [走进JavaWeb技术世界1：JavaWeb的由来和基础知识](docs/java-web/走进JavaWeb技术世界1：JavaWeb的由来和基础知识.md)
 * [走进JavaWeb技术世界2：JSP与Servlet的曾经与现在](docs/java-web/走进JavaWeb技术世界2：JSP与Servlet的曾经与现在.md)
 * [走进JavaWeb技术世界3：JDBC的进化与连接池技术](docs/java-web/走进JavaWeb技术世界3：JDBC的进化与连接池技术.md)
-* [走进JavaWeb技术世界4：Servlet 工作原理详解](docs/java-web/走进JavaWeb技术世界4：Servlet%29工作原理详解.md)
+* [走进JavaWeb技术世界4：Servlet 工作原理详解](docs/java-web/走进JavaWeb技术世界4：Servlet%20工作原理详解.md)
 * [走进JavaWeb技术世界5：初探Tomcat的HTTP请求过程](docs/java-web/走进JavaWeb技术世界5：初探Tomcat的HTTP请求过程.md)
 * [走进JavaWeb技术世界6：Tomcat5总体架构剖析](docs/java-web/走进JavaWeb技术世界6：Tomcat5总体架构剖析.md)
 * [走进JavaWeb技术世界7：Tomcat和其他WEB容器的区别](docs/java-web/走进JavaWeb技术世界7：Tomcat和其他WEB容器的区别.md)
